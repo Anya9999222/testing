@@ -1,0 +1,12 @@
+.input {
+    width: 57%;
+    height: 30px;
+}
+
+.submit {
+    background-color: green;
+    border-radius: 5px;
+    height: 35px;
+    color: aliceblue;
+    border: none;
+}

@@ -1,0 +1,49 @@
+.cards-container {
+    display: flex;
+}
+
+.card {
+    width: 50px;
+    height: 30px;
+    margin-right: 5px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: gray;
+    opacity: 0.3;
+    border-radius: 5px;
+}
+
+
+.visa {
+    background-image: url('../../../asset/resource/visa.svg');
+}
+
+.mastercard {
+    background-image: url('../../../asset/resource/mastercard.svg');
+}
+
+.american-express {
+    background-image: url('../../../asset/resource/american-express.svg');
+}
+
+.discover {
+    background-image: url('../../../asset/resource/discover.svg');
+}
+
+.jcb {
+    background-image: url('../../../asset/resource/jcb.svg');
+}
+
+.diners {
+    background-image: url('../../../asset/resource/diners-club.svg');
+}
+
+.mir {
+    background-image: url('../../../asset/resource/mir.svg');
+}
+
+.active {
+  background-color: transparent;
+  opacity: 1;
+}

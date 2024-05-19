@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+    width: 48vw;
+    justify-content: space-between;
+}
+
+.valid {
+    background-color: #98FB98;
+}
+
+.invalid {
+    background-color: red;
+}
